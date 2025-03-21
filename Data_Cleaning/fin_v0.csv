@@ -1,0 +1,215 @@
+,Country,combined figures (kg/capita/year),Household estimate (kg/capita/year),Household estimate (tonnes/year),Retail estimate (kg/capita/year),Retail estimate (tonnes/year),Food service estimate (kg/capita/year),Food service estimate (tonnes/year),Region,UN Region,IMF_Estimate
+0,Afghanistan,126,82,3109153,16,594982,28,1051783,Southern Asia,Asia,2456
+1,Albania,127,83,238492,16,45058,28,79651,Southern Europe,Europe,19029
+2,Algeria,135,91,3918529,16,673360,28,1190335,Northern Africa,Africa,13507
+3,Andorra,123,84,6497,13,988,26,1971,Southern Europe,Europe,68998
+4,Angola,144,100,3169523,16,497755,28,879908,Sub-Saharan Africa,Africa,7222
+5,Antigua and Barbuda,113,74,7178,13,1244,26,2483,Latin America and the Caribbean,Americas,24012
+6,Argentina,116,72,3243563,16,700380,28,1238100,Latin America and the Caribbean,Americas,27261
+7,Armenia,137,93,275195,16,46259,28,81775,Western Asia,Asia,19489
+8,Aruba,113,74,7858,13,1362,26,2718,Latin America and the Caribbean,Americas,49627
+9,Australia,133,102,2563110,9,238248,22,546340,Australia and New Zealand,Oceania,65366
+10,Austria,76,39,349249,9,77289,28,254191,Western Europe,Europe,69502
+11,Azerbaijan,137,93,934872,16,157148,28,277800,Western Asia,Asia,18669
+12,Bahamas,113,74,28792,13,4990,26,9960,Latin America and the Caribbean,Americas,43913
+13,Bahrain,171,132,216161,13,21026,26,41966,Western Asia,Asia,60596
+14,Bangladesh,84,65,10618233,16,2550080,3,544436,Southern Asia,Asia,8663
+15,Barbados,113,74,21215,13,3677,26,7339,Latin America and the Caribbean,Americas,18858
+16,Belarus,112,68,646356,16,147838,28,261341,Eastern Europe,Europe,23447
+17,Belgium,80,50,576036,10,112100,20,227371,Western Europe,Europe,65501
+18,Belize,97,53,20564,16,6106,28,10794,Latin America and the Caribbean,Americas,10939
+19,Benin,144,100,1175297,16,184573,28,326280,Sub-Saharan Africa,Africa,4300
+20,Bermuda,113,74,4606,13,801,26,1598,Northern America,Americas,95837
+21,Bhutan,123,79,60000,16,11935,28,21098,Southern Asia,Asia,14170
+22,Bolivia,124,80,922012,16,180068,28,318315,Latin America and the Caribbean,,10327
+23,Bosnia and Herzegovina,127,83,273269,16,51628,28,91266,Southern Europe,Europe,19604
+24,Botswana,136,92,211802,16,36030,28,63693,Sub-Saharan Africa,Africa,19398
+25,Brazil,104,60,12578308,16,3300862,28,5835112,Latin America and the Caribbean,Americas,18686
+26,British Virgin Islands,113,74,2218,13,384,26,767,Latin America and the Caribbean,Americas,34200
+27,Brunei Darussalam,119,80,34739,13,5551,26,11080,South-eastern Asia,,60100
+28,Bulgaria,112,68,478667,16,109483,28,193539,Eastern Europe,Europe,32006
+29,Burkina Faso,147,103,2086893,16,317831,28,561848,Sub-Saharan Africa,Africa,2726
+30,Burundi,147,103,1184127,16,180341,28,318799,Sub-Saharan Africa,Africa,891
+31,Cabo Verde,144,100,54765,16,8601,28,15204,Sub-Saharan Africa,,9661
+32,Cambodia,130,86,1423397,16,257853,28,455820,South-eastern Asia,Asia,6092
+33,Cameroon,144,100,2577064,16,404713,28,715433,Sub-Saharan Africa,Africa,4665
+34,Canada,118,79,2938321,13,479284,26,956615,Northern America,Americas,60177
+35,Cayman Islands,113,74,4797,13,831,26,1660,Latin America and the Caribbean,Americas,74155
+36,Central African Republic,147,103,487305,16,74216,28,131196,Sub-Saharan Africa,Africa,1127
+37,Chad,147,103,1637656,16,249413,28,440901,Sub-Saharan Africa,Africa,1787
+38,Chile,113,74,1400946,13,242800,26,484611,Latin America and the Caribbean,Americas,29613
+39,China,126,64,91646213,16,22424705,46,65377741,Eastern Asia,Asia,23382
+40,Hong Kong,110,71,530985,13,95267,26,190147,Eastern Asia,,74598
+41,Macao,110,71,45728,13,8204,26,16375,Eastern Asia,,89558
+42,Colombia,114,70,3545499,16,787320,28,1391787,Latin America and the Caribbean,Americas,19460
+43,Comoros,144,100,84742,16,13308,28,23526,Sub-Saharan Africa,Africa,3463
+44,Congo,144,100,535851,16,84152,28,148760,Sub-Saharan Africa,Africa,5155
+45,Costa Rica,116,72,365609,16,78946,28,139556,Latin America and the Caribbean,Americas,26422
+46,Ivory Coast,144,100,2561140,16,402212,28,711012,Sub-Saharan Africa,,7011
+47,Croatia,123,84,348070,13,52915,26,105613,Southern Europe,Europe,42531
+48,Cuba,116,72,820910,16,177259,28,313349,Latin America and the Caribbean,Americas,12300
+49,Curaçao,113,74,12079,13,2093,26,4178,Latin America and the Caribbean,Americas,22832
+50,Cyprus,134,95,113306,13,15356,26,30649,Western Asia,Asia,54611
+51,Czechia,109,70,746840,13,136943,26,273327,Eastern Europe,,50961
+52,North Korea,125,81,2070528,16,401425,28,709621,Eastern Asia,,1700
+53,Dem. Rep. of the Congo,147,103,8912903,16,1357425,28,2399593,Sub-Saharan Africa,,1474
+54,Denmark,132,81,469449,30,172003,21,119134,Northern Europe,Europe,73386
+55,Djibouti,144,100,96962,16,15227,28,26918,Sub-Saharan Africa,Africa,6894
+56,Dominica,116,72,5201,16,1123,28,1985,Latin America and the Caribbean,Americas,14161
+57,Dominican Republic,116,72,777849,16,167960,28,296913,Latin America and the Caribbean,Americas,25896
+58,Ecuador,116,72,1258415,16,271729,28,480349,Latin America and the Caribbean,Americas,13513
+59,Egypt,135,91,9136941,16,1570093,28,2775538,Northern Africa,Africa,16979
+60,El Salvador,124,80,516828,16,100936,28,178430,Latin America and the Caribbean,Americas,11647
+61,Equatorial Guinea,136,92,124670,16,21208,28,37491,Sub-Saharan Africa,Africa,18510
+62,Eritrea,147,103,359132,16,54695,28,96688,Sub-Saharan Africa,Africa,2188
+63,Estonia,100,78,102743,5,6243,17,22013,Northern Europe,Europe,46385
+64,Eswatini,144,100,114341,16,17957,28,31743,Sub-Saharan Africa,Africa,11492
+65,Ethiopia,136,92,10327236,16,1752936,28,3098760,Sub-Saharan Africa,Africa,3724
+66,Faroe Islands,115,76,3710,13,624,26,1245,Northern Europe,Europe,40000
+67,Fiji,120,76,67385,16,13920,28,24607,Melanesia,Oceania,15727
+68,Finland,101,65,361937,13,70875,23,128927,Northern Europe,Europe,60897
+69,France,135,85,5522358,26,1667568,24,1594579,Western Europe,Europe,58828
+70,French Polynesia,118,79,21978,13,3578,26,7142,Polynesia,Oceania,17000
+71,Gabon,136,92,199748,16,33980,28,60068,Sub-Saharan Africa,Africa,19197
+72,Gambia,147,103,241095,16,36719,28,64909,Sub-Saharan Africa,Africa,2804
+73,Georgia,145,101,403573,16,62511,28,110504,Western Asia,Asia,21922
+74,Germany,102,75,6263775,6,498244,21,1718433,Western Europe,Europe,66132
+75,Ghana,128,84,2555332,16,475743,28,840996,Sub-Saharan Africa,Africa,6974
+76,Gibraltar,123,84,2840,13,432,26,862,Southern Europe,Europe,61700
+77,Greece,175,142,1483996,7,77332,26,267812,Southern Europe,Europe,39478
+78,Greenland,113,74,4178,13,726,26,1450,Northern America,Americas,41800
+79,Grenada,116,72,8112,16,1752,28,3097,Latin America and the Caribbean,Americas,20075
+80,Guam,118,79,13165,13,2143,26,4278,Micronesia,Oceania,35600
+81,Guatemala,116,72,1273466,16,274979,28,486095,Latin America and the Caribbean,Americas,10546
+82,Guinea,147,103,1311530,16,199744,28,353099,Sub-Saharan Africa,Africa,3218
+83,Guinea-Bissau,147,103,197266,16,30043,28,53109,Sub-Saharan Africa,Africa,3072
+84,Guyana,116,72,56700,16,12243,28,21643,Latin America and the Caribbean,Americas,60648
+85,Haiti,127,83,936940,16,176157,28,311403,Latin America and the Caribbean,Americas,3248
+86,Honduras,124,80,780504,16,152431,28,269461,Latin America and the Caribbean,Americas,7228
+87,Hungary,133,94,908669,13,124074,26,247642,Eastern Europe,Europe,43907
+88,Iceland,115,76,25827,13,4343,26,8668,Northern Europe,Europe,69779
+89,India,94,50,68760163,16,21371087,28,37778821,Southern Asia,Asia,9073
+90,Indonesia,121,77,20938252,16,4232646,28,7482277,South-eastern Asia,Asia,15855
+91,Iran,115,71,5884842,16,1296792,28,2292410,Southern Asia,,19548
+92,Iraq,164,120,4734434,16,614814,28,1086840,Western Asia,Asia,12927
+93,Ireland,124,55,267073,13,62551,56,274135,Northern Europe,Europe,145196
+94,Isle of Man,115,76,6445,13,1084,26,2163,Northern Europe,Europe,84600
+95,Israel,178,100,848395,51,437997,27,233752,Western Asia,Asia,54997
+96,Italy,97,67,4059806,4,219552,26,1548291,Southern Europe,Europe,54216
+97,Jamaica,116,72,213552,16,46112,28,81515,Latin America and the Caribbean,Americas,12887
+98,Japan,88,64,8159891,9,1095308,15,1870735,Eastern Asia,Asia,51809
+99,Jordan,137,93,939897,16,157993,28,279293,Western Asia,Asia,12893
+100,Kazakhstan,120,76,1404584,16,290148,28,512910,Central Asia,Asia,32688
+101,Kenya,141,99,5217367,11,576411,31,1637020,Sub-Saharan Africa,Africa,6569
+102,Kiribati,135,91,10704,16,1839,28,3251,Micronesia,Oceania,2381
+103,Kuwait,134,95,397706,13,53898,26,107577,Western Asia,Asia,53037
+104,Kyrgyzstan,135,91,583951,16,100346,28,177387,Central Asia,Asia,6250
+105,Laos,130,86,618994,16,112133,28,198223,South-eastern Asia,,9801
+106,Latvia,115,76,145263,13,24427,26,48755,Northern Europe,Europe,40256
+107,Lebanon,149,105,717491,16,107225,28,189547,Western Asia,Asia,11377
+108,Lesotho,144,100,211661,16,33240,28,58760,Sub-Saharan Africa,Africa,3251
+109,Liberia,147,103,507043,16,77222,28,136510,Sub-Saharan Africa,Africa,1788
+110,Libya,120,76,513146,16,106002,28,187385,Northern Africa,Africa,24599
+111,Liechtenstein,111,72,2724,13,487,26,972,Western Europe,Europe,139100
+112,Lithuania,115,76,210241,13,35354,26,70564,Northern Europe,Europe,49266
+113,Luxembourg,117,89,54951,7,4433,21,12868,Western Europe,Europe,142490
+114,Madagascar,147,103,2769594,16,421806,28,745649,Sub-Saharan Africa,Africa,1916
+115,Malawi,147,103,1913062,16,291357,28,515048,Sub-Saharan Africa,Africa,1682
+116,Malaysia,260,91,2921577,79,2518199,90,2861537,South-eastern Asia,Asia,36847
+117,Maldives,115,71,37688,16,8305,28,14681,Southern Asia,Asia,36358
+118,Mali,147,103,2018765,16,307456,28,543506,Sub-Saharan Africa,Africa,2656
+119,Malta,168,129,56812,13,5642,26,11261,Southern Europe,Europe,61939
+120,Marshall Islands,120,76,4452,16,920,28,1626,Micronesia,Oceania,4669
+121,Mauritania,144,100,450720,16,70783,28,125127,Sub-Saharan Africa,Africa,7437
+122,Mauritius,132,93,118626,13,16267,26,32467,Sub-Saharan Africa,Africa,29164
+123,Mexico,138,94,11979364,16,1995310,28,3527217,Latin America and the Caribbean,Americas,23820
+124,Micronesia,135,91,10358,16,1780,28,3146,Micronesia,,3931
+125,Monaco,111,72,2795,13,500,26,997,Western Europe,Europe,115700
+126,Mongolia,122,78,250173,16,50443,28,89171,Eastern Asia,Asia,14939
+127,Montenegro,127,83,51988,16,9822,28,17363,Southern Europe,Europe,27761
+128,Morocco,135,91,3319524,16,570427,28,1008375,Northern Africa,Africa,10460
+129,Mozambique,147,103,3118416,16,474931,28,839561,Sub-Saharan Africa,Africa,1556
+130,Myanmar,130,86,4666125,16,845282,28,1494251,South-eastern Asia,Asia,5132
+131,Namibia,136,92,229344,16,39015,28,68968,Sub-Saharan Africa,Africa,11440
+132,Nauru,118,79,850,13,138,26,276,Micronesia,Oceania,11342
+133,Nepal,123,79,2249412,16,447447,28,790975,Southern Asia,Asia,5101
+134,Netherlands,87,50,854855,11,188068,26,437180,Western Europe,Europe,72973
+135,New Caledonia,118,79,22254,13,3623,26,7231,Melanesia,Oceania,31100
+136,New Zealand,90,61,291769,3,14923,26,122306,Australia and New Zealand,Oceania,54046
+137,Nicaragua,124,80,524188,16,102373,28,180970,Latin America and the Caribbean,Americas,7601
+138,Niger,147,103,2393877,16,364585,28,644496,Sub-Saharan Africa,Africa,1600
+139,Nigeria,233,189,37941470,16,3143117,28,5556257,Sub-Saharan Africa,Africa,6178
+140,North Macedonia,127,83,172480,16,32586,28,57605,Southern Europe,Europe,21111
+141,Northern Mariana Islands,118,79,4501,13,733,26,1463,Micronesia,Oceania,24500
+142,Norway,98,79,423857,14,74088,5,26685,Northern Europe,Europe,82655
+143,Oman,134,95,470297,13,63736,26,127213,Western Asia,Asia,42188
+144,Pakistan,118,74,15947645,16,3387131,28,5987614,Southern Asia,Asia,6836
+145,Palau,118,79,1416,13,231,26,460,Micronesia,Oceania,16394
+146,Panama,113,74,313897,13,54402,26,108582,Latin America and the Caribbean,Americas,40177
+147,Papua New Guinea,135,91,798767,16,137260,28,242642,Melanesia,Oceania,4516
+148,Paraguay,116,72,510256,16,110179,28,194770,Latin America and the Caribbean,Americas,15578
+149,Peru,116,72,2354806,16,508472,28,898853,Latin America and the Caribbean,Americas,16132
+150,Philippines,130,86,9334477,16,1690968,28,2989216,South-eastern Asia,Asia,11420
+151,Poland,95,56,2119455,13,485392,26,968807,Eastern Europe,Europe,45343
+152,Portugal,123,84,861786,13,131011,26,261488,Southern Europe,Europe,44707
+153,Puerto Rico,113,74,216839,13,37581,26,75008,Latin America and the Caribbean,Americas,43845
+154,Qatar,134,95,267724,13,36283,26,72418,Western Asia,Asia,124834
+155,South Korea,110,71,3657764,13,656263,26,1309852,Eastern Asia,,56706
+156,Republic of Moldova,120,76,307419,16,63238,28,111789,Eastern Europe,,16840
+157,Romania,109,70,1352979,13,248086,26,495161,Eastern Europe,Europe,41634
+158,Russia,75,33,4868564,14,2001062,28,4033088,Eastern Europe,,34837
+159,Rwanda,208,164,2075405,16,197489,28,349112,Sub-Saharan Africa,Africa,3090
+160,Saint Kitts and Nevis,113,74,3903,13,676,26,1350,Latin America and the Caribbean,Americas,29662
+161,Saint Lucia,116,72,13241,16,2859,28,5054,Latin America and the Caribbean,Americas,18435
+162,Saint Martin (French part),113,74,2809,13,487,26,972,Latin America and the Caribbean,Americas,19300
+163,Saint Vincent & Grenadines,116,72,8011,16,1730,28,3058,Latin America and the Caribbean,,17793
+164,Samoa,120,76,14923,16,3083,28,5449,Polynesia,Oceania,6324
+165,San Marino,123,84,2857,13,434,26,867,Southern Europe,Europe,78926
+166,Sao Tome and Principe,144,100,21422,16,3364,28,5947,Sub-Saharan Africa,,4874
+167,Saudi Arabia,151,105,3594080,20,673502,26,876260,Western Asia,Asia,64836
+168,Senegal,144,100,1622980,16,254879,28,450564,Sub-Saharan Africa,Africa,4515
+169,Serbia,105,83,726196,16,137199,6,52633,Southern Europe,Europe,25432
+170,Seychelles,132,93,9128,13,1252,26,2498,Sub-Saharan Africa,Africa,39662
+171,Sierra Leone,147,103,802371,16,122200,28,216020,Sub-Saharan Africa,Africa,2082
+172,Singapore,119,80,465355,13,74361,26,148418,South-eastern Asia,Asia,133895
+173,Sint Maarten (Dutch part),113,74,3134,13,543,26,1084,Latin America and the Caribbean,Americas,41812
+174,Slovakia,109,70,381273,13,69911,26,139538,Eastern Europe,Europe,41515
+175,Slovenia,61,34,71107,7,13910,20,41741,Southern Europe,Europe,52641
+176,Solomon Islands,135,91,60963,16,10476,28,18519,Melanesia,Oceania,2414
+177,Somalia,147,103,1585898,16,241530,28,426966,Sub-Saharan Africa,Africa,1374
+178,South Africa,84,40,2329228,16,915865,28,1619024,Sub-Saharan Africa,Africa,16091
+179,South Sudan,147,103,1136015,16,173014,28,305846,Sub-Saharan Africa,Africa,516
+180,Spain,116,77,3613954,13,598760,26,1195080,Southern Europe,Europe,49448
+181,Sri Lanka,120,76,1617738,16,333508,28,589559,Southern Asia,Asia,14223
+182,Palestine,145,101,501602,16,77910,28,137726,Western Asia,,6688
+183,Sudan,141,97,4162396,16,669608,28,1183703,Northern Africa,Africa,4471
+184,Suriname,116,72,42112,16,9093,28,16075,Latin America and the Caribbean,Americas,18427
+185,Sweden,112,81,812948,10,100364,21,205746,Northern Europe,Europe,65842
+186,Switzerland,125,72,615790,13,110067,40,343656,Western Europe,Europe,87963
+187,Syrian Arab Republic,148,104,1771842,16,266980,28,471955,Western Asia,,6374
+188,Tajikistan,141,97,906209,16,145783,28,257708,Central Asia,Asia,5293
+189,Thailand,123,79,5478532,16,1088960,28,1925014,South-eastern Asia,Asia,22675
+190,Timor-Leste,130,86,111643,16,20224,28,35752,South-eastern Asia,,3637
+191,Togo,147,103,830017,16,126411,28,223463,Sub-Saharan Africa,Africa,2754
+192,Tonga,120,76,7912,16,1634,28,2889,Polynesia,Oceania,7125
+193,Trinidad and Tobago,113,74,103119,13,17872,26,35671,Latin America and the Caribbean,Americas,32054
+194,Tunisia,135,91,1064407,16,182908,28,323336,Northern Africa,Africa,13270
+195,Turkey,137,93,7762575,16,1304858,28,2306668,Western Asia,Asia,41412
+196,Turkmenistan,120,76,449895,16,92936,28,164288,Central Asia,Asia,19974
+197,Turks and Caicos Islands,113,74,2824,13,489,26,977,Latin America and the Caribbean,Americas,22915
+198,Tuvalu,120,76,878,16,181,28,321,Polynesia,Oceania,5797
+199,Uganda,147,103,4546237,16,692387,28,1223969,Sub-Saharan Africa,Africa,3224
+200,Ukraine,120,76,3344904,16,688070,28,1216338,Eastern Europe,Europe,13901
+201,United Arab Emirates,134,95,923625,13,125173,26,249836,Western Asia,Asia,88221
+202,United Kingdom,98,77,5199825,4,283627,17,1114248,Northern Europe,Europe,56471
+203,Tanzania,163,119,6907649,16,907219,28,1603740,Sub-Saharan Africa,,3600
+204,United States of America,139,59,19359951,16,5151313,64,20934827,Northern America,,80035
+205,United States Virgin Islands,113,74,7732,13,1340,26,2675,Latin America and the Caribbean,,37000
+206,Uruguay,113,74,255892,13,44349,26,88517,Latin America and the Caribbean,Americas,28740
+207,Uzbekistan,135,91,3001868,16,515841,28,911881,Central Asia,Asia,10308
+208,Vanuatu,135,91,27296,16,4691,28,8292,Melanesia,Oceania,3001
+209,Venezuela,116,72,2065461,16,445994,28,788407,Latin America and the Caribbean,,8028
+210,Vietnam,120,76,7346717,16,1508689,28,2666991,South-eastern Asia,,14458
+211,Yemen,148,104,3026946,16,456099,28,806270,Western Asia,Asia,2042
+212,Zambia,122,78,1391729,16,279350,28,493822,Sub-Saharan Africa,Africa,4041
+213,Zimbabwe,144,100,1458564,16,229059,28,404920,Sub-Saharan Africa,Africa,2627
